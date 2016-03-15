@@ -1,0 +1,21 @@
+{
+  "name": "bower",
+  "homepage": "https://github.com/planet-training/meteor-angular-file-saver",
+  "authors": [
+    "Dominic Garms <djgarms@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-file-saver": "~1.1.0"
+  }
+}
